@@ -3,7 +3,7 @@ package Assigment1;
 import java.util.Scanner;
 
 /**
- * print fibonacci Series
+ * print fibonacci Series .....
  */
 
 public class FibonacciSeries {
